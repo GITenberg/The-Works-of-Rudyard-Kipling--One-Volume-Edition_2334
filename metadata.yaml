@@ -1,0 +1,31 @@
+_repo: The-Works-of-Rudyard-Kipling--One-Volume-Edition_2334
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction'
+- !lcc 'PR'
+- !lcsh 'English poetry'
+- !lcsh 'Short stories, English'
+- GITenberg
+title: 'The Works of Rudyard Kipling: One Volume Edition'
+url: http://www.gutenberg.org/ebooks/2334
